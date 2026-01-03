@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# Output files
+output_video.mp4
+
+# Large model files (consider using Git LFS for these)
+*.pt
